@@ -29,8 +29,8 @@ cd libpcap-1.8.1
 make
 make install
 
-git https://github.com/q2514994747/PUBGlangdong2.git
-cd PUBGlandong2/
+git https://github.com/moonspell99c/PUBGradar.git
+cd PUBGradar/
 npm i
 npm i -g pino
 npm install -g forever
